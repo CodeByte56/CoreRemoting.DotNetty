@@ -3,13 +3,11 @@
 ## Language
 [View Chinese Version](README.zh-CN.md)
 
----
+### Project Introduction
 
 An extension of [CoreRemoting](https://github.com/theRainbird/CoreRemoting.git) using [DotNetty](https://github.com/Azure/DotNetty) as the network transport layer for RPC communication.
 
-### Project Introduction
-
-CoreRemoting.DotNetty is an extended implementation of the CoreRemoting library that replaces the original WatsonTcp implementation with the high-performance DotNetty network framework, providing more powerful network communication capabilities and more flexible configuration options.
+CoreRemoting.Channels.DotNetty is an extended implementation of the CoreRemoting library that replaces the original WatsonTcp implementation with the high-performance DotNetty network framework, providing more powerful network communication capabilities and more flexible configuration options.
 
 ### Key Features
 
