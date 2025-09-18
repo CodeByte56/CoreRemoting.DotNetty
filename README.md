@@ -45,8 +45,6 @@ CoreRemoting.DotNetty is an extended implementation of the CoreRemoting library 
 
 Install the relevant packages via NuGet:
 - CoreRemoting.Channels.DotNetty
-- Newtonsoft.Json
-- DotNetty.Transport
 
 #### Server-side Code Example
 

@@ -45,8 +45,6 @@ CoreRemoting.DotNetty 是对 CoreRemoting 库的扩展实现，使用高性能�
 
 通过 NuGet 安装相关包：
 - CoreRemoting.Channels.DotNetty
-- Newtonsoft.Json
-- DotNetty.Transport
 
 #### 服务器端代码示例
 
