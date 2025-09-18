@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Examples/">
+    <Project Path="Examples/Core.Client/Core.Client.csproj" />
+    <Project Path="Examples/Core.Server/Core.Server.csproj" />
+    <Project Path="Examples/Framework.Client/Framework.Client.csproj" Id="9ed878d1-259d-4785-9121-3c5ef8c74bf3" />
+    <Project Path="Examples/Shared/Shared.csproj" />
+  </Folder>
+  <Project Path="CoreRemoting.Channels/CoreRemoting.Channels.DotNetty.csproj" />
+</Solution>
