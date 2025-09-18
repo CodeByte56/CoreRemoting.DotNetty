@@ -1,7 +1,7 @@
 # CoreRemoting.Channels.DotNetty
 
 ## 语言
-[View English Version](README.md)
+[查看英文版本](README.md)
 
 ---
 
